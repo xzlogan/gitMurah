@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="59010" started-at="2018-07-24T21:36:11Z" finished-at="2018-07-24T21:37:10Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="59010" started-at="2018-07-24T21:36:11Z" finished-at="2018-07-24T21:37:10Z">
+      <class name="br.com.murah.audixpress.teste.TesteLogin">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:br.com.murah.audixpress.teste.TesteLogin@1176dcec]" name="beforeTest" is-config="true" duration-ms="51" started-at="2018-07-24T18:36:11Z" finished-at="2018-07-24T18:36:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="logar()[pri:0, instance:br.com.murah.audixpress.teste.TesteLogin@1176dcec]" name="logar" duration-ms="58087" started-at="2018-07-24T18:36:11Z" finished-at="2018-07-24T18:37:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logar -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:br.com.murah.audixpress.teste.TesteLogin@1176dcec]" name="afterTest" is-config="true" duration-ms="829" started-at="2018-07-24T18:37:09Z" finished-at="2018-07-24T18:37:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- br.com.murah.audixpress.teste.TesteLogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,165 @@
+2018-06-26 17:46:09.612 [main] INFO  br.com.murah.audixpress.restful.client.init.Inicializador - Audixpress client 1.0.20
+2018-06-26 17:46:17.715 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ImportadorPlanilha - --------- inicio importação de empresa------------
+2018-06-26 17:46:18.050 [main] INFO  br.com.murah.audixpress.core.beans.EmpresaBean - [**********] 100%
+2018-06-26 17:46:18.051 [main] INFO  br.com.murah.audixpress.core.beans.EmpresaBean - 
+
+2018-06-26 17:46:18.051 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ImportadorPlanilha - --------- fim importação de empresa------------
+2018-06-26 17:46:20.234 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ResultadoImportacao - ---------Resultado da importação------------
+2018-06-26 17:46:20.234 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ResultadoImportacao - ---------------Com sucesso------------------
+2018-06-26 17:46:20.238 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ResultadoImportacao - Importacao [entidade=Empresa, linha=1, status=SUCESSO, mensagem=null]
+2018-06-26 17:46:20.239 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ResultadoImportacao - > Total: 1
+2018-06-26 17:46:20.239 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ResultadoImportacao - --------------------------------------------
+2018-06-26 17:46:20.239 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ResultadoImportacao - ----------------Com Erro--------------------
+2018-06-26 17:46:20.241 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ResultadoImportacao - > Total: 0
+2018-06-26 17:46:20.244 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ResultadoImportacao - --------------------------------------------
+2018-06-26 17:46:20.244 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ResultadoImportacao - ----------------- FIM-----------------------
+2018-06-26 17:46:29.786 [main] INFO  br.com.murah.audixpress.restful.client.init.Inicializador - Audixpress client 1.0.20
+2018-06-26 17:46:29.956 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ImportadorPlanilha - --------- inicio importação de area------------
+2018-06-26 17:46:30.120 [main] INFO  br.com.murah.audixpress.core.beans.AreaBean - [**********] 100%
+2018-06-26 17:46:30.121 [main] INFO  br.com.murah.audixpress.core.beans.AreaBean - 
+
+2018-06-26 17:46:30.121 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ImportadorPlanilha - --------- fim importação de area------------
+2018-06-26 17:46:30.157 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ResultadoImportacao - ---------Resultado da importação------------
+2018-06-26 17:46:30.157 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ResultadoImportacao - ---------------Com sucesso------------------
+2018-06-26 17:46:30.157 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ResultadoImportacao - Importacao [entidade=Area, linha=1, status=SUCESSO, mensagem=null]
+2018-06-26 17:46:30.157 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ResultadoImportacao - > Total: 1
+2018-06-26 17:46:30.157 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ResultadoImportacao - --------------------------------------------
+2018-06-26 17:46:30.158 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ResultadoImportacao - ----------------Com Erro--------------------
+2018-06-26 17:46:30.158 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ResultadoImportacao - > Total: 0
+2018-06-26 17:46:30.158 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ResultadoImportacao - --------------------------------------------
+2018-06-26 17:46:30.158 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ResultadoImportacao - ----------------- FIM-----------------------
+2018-06-26 17:46:38.769 [main] INFO  br.com.murah.audixpress.restful.client.init.Inicializador - Audixpress client 1.0.20
+2018-06-26 17:46:38.890 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ImportadorPlanilha - --------- inicio importação de processo------------
+2018-06-26 17:46:39.284 [main] INFO  br.com.murah.audixpress.core.beans.AtivoProcessoBean - [**********] 100%
+2018-06-26 17:46:39.285 [main] INFO  br.com.murah.audixpress.core.beans.AtivoProcessoBean - 
+
+2018-06-26 17:46:39.285 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ImportadorPlanilha - --------- fim importação de processo------------
+2018-06-26 17:46:39.314 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ResultadoImportacao - ---------Resultado da importação------------
+2018-06-26 17:46:39.314 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ResultadoImportacao - ---------------Com sucesso------------------
+2018-06-26 17:46:39.314 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ResultadoImportacao - Importacao [entidade=AtivoProcesso, linha=1, status=SUCESSO, mensagem=null]
+2018-06-26 17:46:39.314 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ResultadoImportacao - > Total: 1
+2018-06-26 17:46:39.314 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ResultadoImportacao - --------------------------------------------
+2018-06-26 17:46:39.314 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ResultadoImportacao - ----------------Com Erro--------------------
+2018-06-26 17:46:39.314 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ResultadoImportacao - > Total: 0
+2018-06-26 17:46:39.314 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ResultadoImportacao - --------------------------------------------
+2018-06-26 17:46:39.315 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ResultadoImportacao - ----------------- FIM-----------------------
+2018-06-26 17:46:46.565 [main] INFO  br.com.murah.audixpress.restful.client.init.Inicializador - Audixpress client 1.0.20
+2018-06-26 17:46:46.675 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ImportadorPlanilha - --------- inicio importação de ativo------------
+2018-06-26 17:46:46.849 [main] INFO  br.com.murah.audixpress.core.beans.AtivoBean - [**********] 100%
+2018-06-26 17:46:46.849 [main] INFO  br.com.murah.audixpress.core.beans.AtivoBean - 
+
+2018-06-26 17:46:46.849 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ImportadorPlanilha - --------- fim importação de ativo------------
+2018-06-26 17:46:46.894 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ResultadoImportacao - ---------Resultado da importação------------
+2018-06-26 17:46:46.894 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ResultadoImportacao - ---------------Com sucesso------------------
+2018-06-26 17:46:46.894 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ResultadoImportacao - Importacao [entidade=Ativo, linha=1, status=SUCESSO, mensagem=null]
+2018-06-26 17:46:46.894 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ResultadoImportacao - > Total: 1
+2018-06-26 17:46:46.894 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ResultadoImportacao - --------------------------------------------
+2018-06-26 17:46:46.894 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ResultadoImportacao - ----------------Com Erro--------------------
+2018-06-26 17:46:46.894 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ResultadoImportacao - > Total: 0
+2018-06-26 17:46:46.895 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ResultadoImportacao - --------------------------------------------
+2018-06-26 17:46:46.895 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ResultadoImportacao - ----------------- FIM-----------------------
+2018-06-26 17:46:55.104 [main] INFO  br.com.murah.audixpress.restful.client.init.Inicializador - Audixpress client 1.0.20
+2018-06-26 17:46:55.193 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ImportadorPlanilha - --------- inicio importação de risco------------
+2018-06-26 17:46:55.194 [main] INFO  br.com.murah.audixpress.risco.beans.RiscoBean - [**********] 100%
+2018-06-26 17:46:55.197 [main] INFO  br.com.murah.audixpress.risco.beans.RiscoBean - 
+
+2018-06-26 17:46:55.197 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ImportadorPlanilha - --------- fim importação de risco------------
+2018-06-26 17:46:55.220 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ResultadoImportacao - ---------Resultado da importação------------
+2018-06-26 17:46:55.224 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ResultadoImportacao - ---------------Com sucesso------------------
+2018-06-26 17:46:55.224 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ResultadoImportacao - > Total: 0
+2018-06-26 17:46:55.225 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ResultadoImportacao - --------------------------------------------
+2018-06-26 17:46:55.226 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ResultadoImportacao - ----------------Com Erro--------------------
+2018-06-26 17:46:55.226 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ResultadoImportacao - Importacao [entidade=Risco, linha=1, status=ERRO, mensagem=null]
+2018-06-26 17:46:55.226 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ResultadoImportacao - > Total: 1
+2018-06-26 17:46:55.226 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ResultadoImportacao - --------------------------------------------
+2018-06-26 17:46:55.226 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ResultadoImportacao - ----------------- FIM-----------------------
+2018-06-26 17:47:02.022 [main] INFO  br.com.murah.audixpress.restful.client.init.Inicializador - Audixpress client 1.0.20
+2018-06-26 17:47:02.117 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ImportadorPlanilha - --------- inicio importação de risco-avaliacao------------
+2018-06-26 17:47:02.896 [main] INFO  br.com.murah.audixpress.risco.beans.AvaliacaoRiscoBean - [**********] 100%
+2018-06-26 17:47:02.896 [main] INFO  br.com.murah.audixpress.risco.beans.AvaliacaoRiscoBean - 
+
+2018-06-26 17:47:02.897 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ImportadorPlanilha - --------- fim importação de risco-avaliacao------------
+2018-06-26 17:47:02.914 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ResultadoImportacao - ---------Resultado da importação------------
+2018-06-26 17:47:02.914 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ResultadoImportacao - ---------------Com sucesso------------------
+2018-06-26 17:47:02.914 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ResultadoImportacao - > Total: 0
+2018-06-26 17:47:02.914 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ResultadoImportacao - --------------------------------------------
+2018-06-26 17:47:02.914 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ResultadoImportacao - ----------------Com Erro--------------------
+2018-06-26 17:47:02.914 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ResultadoImportacao - Importacao [entidade=AvaliacaoRisco, linha=1, status=ERRO, mensagem=Falha na requisição : 500 - 0x010000]
+2018-06-26 17:47:02.914 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ResultadoImportacao - > Total: 1
+2018-06-26 17:47:02.914 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ResultadoImportacao - --------------------------------------------
+2018-06-26 17:47:02.914 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ResultadoImportacao - ----------------- FIM-----------------------
+2018-06-26 17:47:10.187 [main] INFO  br.com.murah.audixpress.restful.client.init.Inicializador - Audixpress client 1.0.20
+2018-06-26 17:47:10.287 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ImportadorPlanilha - --------- inicio importação de controle-associado------------
+2018-06-26 17:47:10.521 [main] INFO  br.com.murah.audixpress.controle.beans.RiscoAssociadoBean - [**********] 100%
+2018-06-26 17:47:10.524 [main] INFO  br.com.murah.audixpress.controle.beans.RiscoAssociadoBean - 
+
+2018-06-26 17:47:10.525 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ImportadorPlanilha - --------- fim importação de controle-associado------------
+2018-06-26 17:47:10.549 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ResultadoImportacao - ---------Resultado da importação------------
+2018-06-26 17:47:10.549 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ResultadoImportacao - ---------------Com sucesso------------------
+2018-06-26 17:47:10.549 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ResultadoImportacao - > Total: 0
+2018-06-26 17:47:10.549 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ResultadoImportacao - --------------------------------------------
+2018-06-26 17:47:10.549 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ResultadoImportacao - ----------------Com Erro--------------------
+2018-06-26 17:47:10.549 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ResultadoImportacao - Importacao [entidade=RiscoAssociado, linha=1, status=ERRO, mensagem=Falha na requisição : 500 - 0x010000]
+2018-06-26 17:47:10.550 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ResultadoImportacao - > Total: 1
+2018-06-26 17:47:10.550 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ResultadoImportacao - --------------------------------------------
+2018-06-26 17:47:10.550 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ResultadoImportacao - ----------------- FIM-----------------------
+2018-06-26 17:47:18.460 [main] INFO  br.com.murah.audixpress.restful.client.init.Inicializador - Audixpress client 1.0.20
+2018-06-26 17:47:18.567 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ImportadorPlanilha - --------- inicio importação de controle------------
+2018-06-26 17:47:18.624 [main] INFO  br.com.murah.audixpress.controle.beans.ControleBean - [**********] 100%
+2018-06-26 17:47:18.625 [main] INFO  br.com.murah.audixpress.controle.beans.ControleBean - 
+
+2018-06-26 17:47:18.625 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ImportadorPlanilha - --------- fim importação de controle------------
+2018-06-26 17:47:18.656 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ResultadoImportacao - ---------Resultado da importação------------
+2018-06-26 17:47:18.656 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ResultadoImportacao - ---------------Com sucesso------------------
+2018-06-26 17:47:18.656 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ResultadoImportacao - > Total: 0
+2018-06-26 17:47:18.656 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ResultadoImportacao - --------------------------------------------
+2018-06-26 17:47:18.657 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ResultadoImportacao - ----------------Com Erro--------------------
+2018-06-26 17:47:18.657 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ResultadoImportacao - Importacao [entidade=Controle, linha=1, status=ERRO, mensagem=Falha na requisição : 500 - 0x010000]
+2018-06-26 17:47:18.657 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ResultadoImportacao - > Total: 1
+2018-06-26 17:47:18.657 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ResultadoImportacao - --------------------------------------------
+2018-06-26 17:47:18.657 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ResultadoImportacao - ----------------- FIM-----------------------
+2018-06-26 17:47:25.851 [main] INFO  br.com.murah.audixpress.restful.client.init.Inicializador - Audixpress client 1.0.20
+2018-06-26 17:47:25.927 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ImportadorPlanilha - --------- inicio importação de testeControle------------
+2018-06-26 17:47:26.443 [main] INFO  br.com.murah.audixpress.controle.beans.TesteControleBean - [**********] 100%
+2018-06-26 17:47:26.443 [main] INFO  br.com.murah.audixpress.controle.beans.TesteControleBean - 
+
+2018-06-26 17:47:26.443 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ImportadorPlanilha - --------- fim importação de testeControle------------
+2018-06-26 17:47:26.491 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ResultadoImportacao - ---------Resultado da importação------------
+2018-06-26 17:47:26.491 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ResultadoImportacao - ---------------Com sucesso------------------
+2018-06-26 17:47:26.491 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ResultadoImportacao - Importacao [entidade=TesteControle, linha=1, status=SUCESSO, mensagem=null]
+2018-06-26 17:47:26.491 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ResultadoImportacao - > Total: 1
+2018-06-26 17:47:26.492 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ResultadoImportacao - --------------------------------------------
+2018-06-26 17:47:26.492 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ResultadoImportacao - ----------------Com Erro--------------------
+2018-06-26 17:47:26.492 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ResultadoImportacao - > Total: 0
+2018-06-26 17:47:26.492 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ResultadoImportacao - --------------------------------------------
+2018-06-26 17:47:26.492 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ResultadoImportacao - ----------------- FIM-----------------------
+2018-06-26 17:47:32.575 [main] INFO  br.com.murah.audixpress.restful.client.init.Inicializador - Audixpress client 1.0.20
+2018-06-26 17:47:32.625 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ImportadorPlanilha - --------- inicio importação de passoTesteControle------------
+2018-06-26 17:47:32.684 [main] INFO  br.com.murah.audixpress.controle.beans.PassoTesteControleBean - [**********] 100%
+2018-06-26 17:47:32.684 [main] INFO  br.com.murah.audixpress.controle.beans.PassoTesteControleBean - 
+
+2018-06-26 17:47:32.684 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ImportadorPlanilha - --------- fim importação de passoTesteControle------------
+2018-06-26 17:47:32.719 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ResultadoImportacao - ---------Resultado da importação------------
+2018-06-26 17:47:32.719 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ResultadoImportacao - ---------------Com sucesso------------------
+2018-06-26 17:47:32.719 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ResultadoImportacao - > Total: 0
+2018-06-26 17:47:32.719 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ResultadoImportacao - --------------------------------------------
+2018-06-26 17:47:32.719 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ResultadoImportacao - ----------------Com Erro--------------------
+2018-06-26 17:47:32.719 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ResultadoImportacao - Importacao [entidade=PassoTesteControle, linha=1, status=ERRO, mensagem=Falha na requisição : 500 - object references an unsaved transient instance - save the transient instance before flushing: passoTesteControle; nested exception is org.hibernate.TransientObjectException: object references an unsaved transient instance - save the transient instance before flushing: passoTesteControle]
+2018-06-26 17:47:32.719 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ResultadoImportacao - > Total: 1
+2018-06-26 17:47:32.719 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ResultadoImportacao - --------------------------------------------
+2018-06-26 17:47:32.719 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ResultadoImportacao - ----------------- FIM-----------------------
+2018-06-26 17:47:39.824 [main] INFO  br.com.murah.audixpress.restful.client.init.Inicializador - Audixpress client 1.0.20
+2018-06-26 17:47:39.901 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ImportadorPlanilha - --------- inicio importação de execucaoteste------------
+2018-06-26 17:47:40.171 [main] INFO  br.com.murah.audixpress.controle.beans.ExecucaoTesteBean - [**********] 100%
+2018-06-26 17:47:40.171 [main] INFO  br.com.murah.audixpress.controle.beans.ExecucaoTesteBean - 
+
+2018-06-26 17:47:40.171 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ImportadorPlanilha - --------- fim importação de execucaoteste------------
+2018-06-26 17:47:40.191 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ResultadoImportacao - ---------Resultado da importação------------
+2018-06-26 17:47:40.191 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ResultadoImportacao - ---------------Com sucesso------------------
+2018-06-26 17:47:40.192 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ResultadoImportacao - Importacao [entidade=ExecucaoTeste, linha=1, status=SUCESSO, mensagem=null]
+2018-06-26 17:47:40.192 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ResultadoImportacao - > Total: 1
+2018-06-26 17:47:40.192 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ResultadoImportacao - --------------------------------------------
+2018-06-26 17:47:40.192 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ResultadoImportacao - ----------------Com Erro--------------------
+2018-06-26 17:47:40.192 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ResultadoImportacao - > Total: 0
+2018-06-26 17:47:40.192 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ResultadoImportacao - --------------------------------------------
+2018-06-26 17:47:40.192 [main] INFO  br.com.murah.audixpress.restful.client.importacao.ResultadoImportacao - ----------------- FIM-----------------------
